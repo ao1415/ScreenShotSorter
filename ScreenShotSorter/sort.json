@@ -1,12 +1,8 @@
 ﻿[
   {
-    "From": "./test/from/",
-    "To": "./test/to/",
-    "Regex": "グランブルーファンタジー*.*"
-  },
-  {
-    "From": "./test/from/",
-    "To": "./test/to/",
-    "Regex": "Minecraft.*"
+    "From": "D:\\User\\takuto\\Videos\\Captures\\",
+    "To": "D:\\キャプチャ\\グランブルーファンタジー\\",
+    "Regex": "グランブルーファンタジー.*\\.png",
+    "Rename": "グランブルーファンタジー <time>yyyy_MM_dd HH_mm_ss</time>.png"
   }
 ]
